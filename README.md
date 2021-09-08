@@ -9,4 +9,5 @@
 ## :dart: About ##
 
 Every project I made in figma, will be displayed here.
-- [To-do List](https://www.figma.com/file/BSkA6PBUhsSoqiMOjnKA9I/To-do-List)
+- [To-do List](https://www.figma.com/file/BSkA6PBUhsSoqiMOjnKA9I/To-do-List?node-id=0%3A1)
+- [Electronic Store](https://www.figma.com/file/moNWcQJ3HhC0Hw2fIbwdtW/Electronic-Store?node-id=0%3A1)
